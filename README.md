@@ -1,7 +1,7 @@
-<H3>NAME:HARINI V</H3>
-<H3>REGISTER NO:212222230044</H3>
+<H3>NAME:DHINESH R</H3>
+<H3>REGISTER NO:212223220019</H3>
 <H3>EX. NO.7</H3>
-<H3>DATE:</H3>
+<H3>DATE:27/10/2024</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 <H3>Aim: to perform automatic text summarization using Natural Language Processing (NLP) techniques. </H3> 
  <BR>
